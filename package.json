@@ -1,0 +1,16 @@
+{
+  "name": "restify-scaffold",
+  "version": "1.0.0",
+  "description": "Custom Scaffold for restify ",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reymar Guerrero",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^4.1.1",
+    "underscore": "^1.8.3"
+  }
+}
